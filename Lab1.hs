@@ -7,3 +7,6 @@
 
 {- same3 Function -}
 same3 x y z = (x==y && x==z && y==z)
+
+{- poly Function -}
+poly x = 5*x^2 + 3*x - 2
